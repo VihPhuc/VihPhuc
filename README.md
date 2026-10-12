@@ -4,6 +4,13 @@
 
 I'm looking for a software development internship where I can learn from a team and contribute to practical applications.
 
+## Currently learning
+
+I'm learning cybersecurity fundamentals through hands-on labs on **TryHackMe**.
+
+- Current module: **Start Your Cyber Security Journey**.
+- Profile: [tranvanvinhphuc205 on TryHackMe](https://tryhackme.com/p/tranvanvinhphuc205).
+
 ## Learning goals
 
 - Build a complete application and document how to run it.
