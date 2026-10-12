@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm VihPhuc 👋
 
-<!--
-**VihPhuc/VihPhuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Developer · Open to internship opportunities**
 
-Here are some ideas to get you started:
+I'm looking for a software development internship where I can learn from a team and contribute to practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning goals
+
+- Build a complete application and document how to run it.
+- Strengthen my understanding of code, debugging, and testing.
+- Use Git and pull requests to communicate changes clearly.
+
+I'm exploring different areas of software development as I build my foundation.
