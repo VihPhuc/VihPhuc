@@ -18,7 +18,7 @@ Learning web development with AI-assisted workflows — and learning to understa
 - 🎯 Seeking a **software development internship** where I can learn from a team and contribute incrementally.
 - 🌱 Currently learning **JavaScript, React and TypeScript** through hands-on practice and an AI-assisted project.
 - 🎬 Built **CineHub** with AI tools ("vibe coding"). I set the requirements and worked with AI; I'm now reviewing the code to understand, debug and test it — I don't present it as hand-written.
-- 🛡️ Learning **cybersecurity fundamentals** on TryHackMe — module *Start Your Cyber Security Journey*.
+- 🛡️ Just started the **TryHackMe** beginner path — module *Start Your Cyber Security Journey*.
 - ➡️ Next step: build a small app from scratch without AI to strengthen my fundamentals.
 
 ## 🧰 Tools I've used while learning
@@ -48,7 +48,7 @@ CineHub is a **learning project whose application code was generated with AI too
 - HLS playback with `hls.js` and an iframe fallback for sources without `m3u8`.
 - PWA with an offline app shell, API/image caching and shareable deep links.
 
-**What I'm learning from it:**
+**What I'm starting to learn from it:**
 
 - How URL state, API calls and caching fit together.
 - How a service worker caches the app shell, API responses and images.
@@ -73,7 +73,7 @@ Completed a one-day workshop offered by the **Centre for Excellence in Software 
 - **JavaScript and React fundamentals**
 - Reading and debugging the **CineHub** codebase
 - Writing tests with **Vitest**
-- **TryHackMe** — *Start Your Cyber Security Journey* ([profile](https://tryhackme.com/p/tranvanvinhphuc205))
+- **TryHackMe** — just started *Start Your Cyber Security Journey* ([profile](https://tryhackme.com/p/tranvanvinhphuc205))
 
 ## 🎯 2026 goals
 
